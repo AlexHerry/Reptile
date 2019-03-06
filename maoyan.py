@@ -61,4 +61,3 @@ if __name__ == '__main__':
     rank = downloader()
     html = rank.get_html(page)
     txt = rank.get_txt()
-
